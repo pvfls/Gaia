@@ -1,1 +1,1 @@
-Programming library focused on algorithms
+Programming library focused on algorithms + a few possible games
